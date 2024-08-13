@@ -1,4 +1,11 @@
-# About
+---
+layout: page
+title: About Me
+permalink: /about/
+---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+# About Me
 
+Hello! I'm [Your Name], a [Your Profession/Title] passionate about [Your Interests].
+
+[Add more details about yourself, your background, and your expertise.]
