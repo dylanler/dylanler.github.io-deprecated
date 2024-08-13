@@ -1,10 +1,3 @@
----
-layout: post
-title: "Understanding Embeddings: A Practical Guide"
-date: 2024-08-12
-categories: [machine learning, nlp]
----
-
 # Understanding Embeddings: A Practical Guide
 
 ## 1. Introduction
